@@ -1,16 +1,16 @@
 <template>
-    <div class="mb-6">
-      <section class="hero is-medium is-primary is-bold mb-6">
-        <div class="hero-body">
-          <div class="container">
-            <h1 class="title">Get GitHub Repositories</h1>
-            <h2 class="subtitle">using Vue JS, REST API &amp; Bulma</h2>
+    <div>
+      <section>
+        <div>
+          <div>
+            <h1>Get GitHub Repositories</h1>
+            <h2>using Vue JS &amp; REST API</h2>
           </div>
         </div>
       </section>
       <div class="container">
         <div class="table-container">
-          <table class="table is-bordered is-striped is-hoverable is-fullwidth">
+          <table>
             <thead>
               <tr>
                 <th>ID</th>
